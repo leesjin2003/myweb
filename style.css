@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {background-color: pink;}
+  h1 {color: rgba(52, 52, 192, 0.616);}
+  p {color: rgba(255, 0, 85, 0.692);}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
